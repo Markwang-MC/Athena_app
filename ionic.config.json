@@ -1,0 +1,7 @@
+{
+  "name": "athena_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
